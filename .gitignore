@@ -1,0 +1,24 @@
+# Системные файлы мусора
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Настройки редакторов
+.vscode/
+.idea/
+*.swp
+
+# Логи
+*.log
+npm-debug.log*
+
+# Переменные окружения
+.env
+.env.local
+
+# Зависимости
+node_modules/
+
+# Временные файлы
+*.tmp
+*.bak
